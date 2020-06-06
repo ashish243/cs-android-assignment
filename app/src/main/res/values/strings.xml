@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS Android Assignment</string>
+    <string name="app_playing_now">Playing now</string>
+    <string name="app_Most_Popular">Most popular</string>
+    <string name="my_api_key">55957fcf3ba81b137f8fc01ac5a31fb5</string>
+    <string name="app_tittle">MOVIEBOX</string>
+</resources>
